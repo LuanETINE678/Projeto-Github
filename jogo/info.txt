@@ -1,3 +1,6 @@
 Um padre foi chamado para expurgar fantasmas e criaturas malignas em um cemitério
 seu objetivo além de matar esses fantasmas é garantir a segurança dos mortos, para
 que eles continuem descansando em paz. 
+
+Atualização: O jogo ganhou um modo historia, contando a historia de alguns dos fantasmas que estão preso
+no cemitério.
